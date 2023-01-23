@@ -390,7 +390,7 @@ footer span{
   display: none;
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 575px){
   /* .navbar-nav a{
 display: none;
   }
